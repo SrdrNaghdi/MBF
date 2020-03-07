@@ -1,4 +1,4 @@
-# MBF
+# Modem Brute Force(MBF)
 ## Usage:
 - python MBF.py IPaddress combolist.txt
 
