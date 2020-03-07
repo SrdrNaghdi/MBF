@@ -1,3 +1,3 @@
 # MBF
 ## Usage
-- python MBF.py <ipaddress> combolist.txt
+- python MBF.py 'ipaddress' combolist.txt
